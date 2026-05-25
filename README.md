@@ -41,3 +41,5 @@ One major challenge involved debugging repeated database entries caused by recur
 git clone <repository-link>
 cd Hospital-management-system
 python hospital_management_system.py
+
+Author:Seth sanyanda wekesa 
