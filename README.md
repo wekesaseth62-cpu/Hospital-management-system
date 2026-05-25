@@ -42,4 +42,4 @@ git clone <repository-link>
 cd Hospital-management-system
 python hospital_management_system.py
 
-Author:Seth sanyanda wekesa 
+##seth sanyanda wekesa 
